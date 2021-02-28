@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442466112342",
+    "project_id": "gians-playground",
+    "storage_bucket": "gians-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442466112342:android:2d43409683ae2ef31d7cf7",
+        "android_client_info": {
+          "package_name": "com.giansplayground.geetranslate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442466112342-ll06spagobbuvc5ai82b7diklb32lhdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AXBMj8D_PPFqhEKvlHBOlxOPKfKI0C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442466112342-ll06spagobbuvc5ai82b7diklb32lhdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
